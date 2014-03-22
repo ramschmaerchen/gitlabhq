@@ -139,7 +139,7 @@ gem "slack-notifier", "~> 0.2.0"
 gem "d3_rails", "~> 3.1.4"
 
 # underscore-rails
-gem "underscore-rails", "~> 1.4.4"
+gem "underscore-rails", "~> 1.6.0"
 
 # Sanitize user input
 gem "sanitize"

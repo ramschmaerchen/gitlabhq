@@ -541,7 +541,7 @@ GEM
     uglifier (2.3.2)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
-    underscore-rails (1.4.4)
+    underscore-rails (1.6.0)
     unicorn (4.6.3)
       kgio (~> 2.6)
       rack
@@ -673,7 +673,7 @@ DEPENDENCIES
   tinder (~> 1.9.2)
   turbolinks
   uglifier
-  underscore-rails (~> 1.4.4)
+  underscore-rails (~> 1.6.0)
   unicorn (~> 4.6.3)
   unicorn-worker-killer
   version_sorter
